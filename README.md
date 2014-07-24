@@ -1,4 +1,9 @@
 glossary
 ========
 
-archive some glossary for translate
+Archive some glossary for translate to Chinese.
+
+#### Directory
+
+- JavaScript
+	- AngularJS

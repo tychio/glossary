@@ -1,0 +1,17 @@
+En|Zh
+---|---
+Factory|工厂
+Service|服务
+Directive|指令
+Controller|控制器
+Filter|过滤器
+Provider|提供器
+Template|模板
+Count|计数器
+Module|模块
+Application|应用程序
+Function|函数
+Argument|参数
+Element|元素
+Log|日志
+Console|控制台
