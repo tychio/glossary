@@ -21,3 +21,5 @@ Log|日志
 Exception|异常
 Console|控制台
 Interpolation|内插
+Dependency Injection|依赖注入
+Promise|承诺
