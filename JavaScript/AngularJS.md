@@ -24,3 +24,6 @@ Console|控制台
 Interpolation|内插
 Dependency Injection|依赖注入
 Promise|承诺
+Factory Function|工厂函数
+Link Funciton|链接函数
+Complie Function|编译函数
