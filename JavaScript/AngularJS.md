@@ -27,3 +27,6 @@ Promise|承诺
 Factory Function|工厂函数
 Link Funciton|链接函数
 Complie Function|编译函数
+Sanitization|净化
+Hard-code|硬编码
+Listing|清单
