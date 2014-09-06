@@ -24,6 +24,9 @@ Console|控制台
 Interpolation|内插
 Dependency Injection|依赖注入
 Promise|承诺
+Closure|闭包
 Factory Function|工厂函数
 Link Funciton|链接函数
 Complie Function|编译函数
+Callback Function|回调函数
+Immediately Invoked Function Expression|立即调用的函数表达式
