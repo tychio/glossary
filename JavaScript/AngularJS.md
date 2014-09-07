@@ -10,6 +10,7 @@ Filter|过滤器
 Provider|提供器
 Handler|处理器
 Watcher|监听器
+Injector|注入器
 Wrapper|封装
 Template|模板
 Count|计数器
@@ -30,3 +31,5 @@ Link Funciton|链接函数
 Complie Function|编译函数
 Callback Function|回调函数
 Immediately Invoked Function Expression|立即调用的函数表达式
+Property|属性
+Attribute|特性
