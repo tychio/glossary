@@ -30,3 +30,5 @@ Complie Function|编译函数
 Sanitization|净化
 Hard-code|硬编码
 Listing|清单
+Specification|规格
+Serialize|序列化
