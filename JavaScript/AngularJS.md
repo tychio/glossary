@@ -33,3 +33,6 @@ Hard-code|硬编码
 Listing|清单
 Specification|规格
 Serialize|序列化
+Resolve|解决
+Reject|拒绝
+Observer|观察者
