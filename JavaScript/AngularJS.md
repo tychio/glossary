@@ -5,6 +5,7 @@ Factory|工厂
 Service|服务
 Directive|指令
 Scope|作用域
+View|视图
 Controller|控制器
 Filter|过滤器
 Provider|提供器
