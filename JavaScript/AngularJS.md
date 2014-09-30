@@ -37,3 +37,4 @@ Serialize|序列化
 Resolve|解决
 Reject|拒绝
 Observer|观察者
+Swipe|触控
