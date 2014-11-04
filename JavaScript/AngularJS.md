@@ -13,6 +13,7 @@ Handler|处理器
 Watcher|监听器
 Interceptor|拦截器
 Decorator|修饰器
+Runner|运行器
 Wrapper|封装
 Template|模板
 Count|计数器
