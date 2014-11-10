@@ -17,6 +17,7 @@ Runner|运行器
 Wrapper|封装
 Template|模板
 Count|计数器
+Timer|计时器
 Module|模块
 Application|应用程序
 Function|函数
@@ -40,3 +41,4 @@ Resolve|解决
 Reject|拒绝
 Observer|观察者
 Swipe|触控
+Mock|仿造
