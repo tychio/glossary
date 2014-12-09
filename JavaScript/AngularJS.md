@@ -42,3 +42,4 @@ Reject|拒绝
 Observer|观察者
 Swipe|触控
 Mock|仿造
+two-way binding|双向绑定
