@@ -14,6 +14,7 @@ Watcher|监听器
 Interceptor|拦截器
 Decorator|修饰器
 Runner|运行器
+Injector|注入器
 Wrapper|封装
 Template|模板
 Count|计数器
@@ -29,9 +30,11 @@ Console|控制台
 Interpolation|内插
 Dependency Injection|依赖注入
 Promise|承诺
+Closure|闭包
 Factory Function|工厂函数
 Link Funciton|链接函数
 Complie Function|编译函数
+Callback Function|回调函数
 Sanitization|净化
 Hard-code|硬编码
 Listing|清单
@@ -43,3 +46,7 @@ Observer|观察者
 Swipe|触控
 Mock|仿造
 two-way binding|双向绑定
+Property|属性
+Attribute|特性
+Transclusion|嵌入包含
+Immediately Invoked Function Expression|立即调用的函数表达式
