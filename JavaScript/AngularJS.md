@@ -47,6 +47,7 @@ Swipe|触控
 Mock|仿造
 two-way binding|双向绑定
 Property|属性
-Attribute|特性
+Attribute|特性 or 属性
+Feature|特性
 Transclusion|嵌入包含
 Immediately Invoked Function Expression|立即调用的函数表达式
