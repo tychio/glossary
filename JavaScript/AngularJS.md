@@ -51,3 +51,5 @@ Attribute|特性 or 属性
 Feature|特性
 Transclusion|嵌入包含
 Immediately Invoked Function Expression|立即调用的函数表达式
+non-functional|非功能性
+Collection|集
