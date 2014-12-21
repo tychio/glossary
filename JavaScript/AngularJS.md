@@ -31,6 +31,7 @@ Interpolation|内插
 Dependency Injection|依赖注入
 Promise|承诺
 Closure|闭包
+Dashboard|控制面板
 Factory Function|工厂函数
 Link Funciton|链接函数
 Complie Function|编译函数
@@ -53,3 +54,4 @@ Transclusion|嵌入包含
 Immediately Invoked Function Expression|立即调用的函数表达式
 non-functional|非功能性
 Collection|集
+e-commerce|电子商务
