@@ -55,3 +55,6 @@ Immediately Invoked Function Expression|立即调用的函数表达式
 non-functional|非功能性
 Collection|集
 e-commerce|电子商务
+Notation|符号
+Validate|验证
+Feedback|反馈
