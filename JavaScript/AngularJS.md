@@ -27,6 +27,7 @@ Element|元素
 Log|日志
 Exception|异常
 Console|控制台
+Expression|表达式
 Interpolation|内插
 Dependency Injection|依赖注入
 Promise|承诺
@@ -58,3 +59,6 @@ e-commerce|电子商务
 Notation|符号
 Validate|验证
 Feedback|反馈
+Instruction|指示
+Render|渲染
+Partial|局部
