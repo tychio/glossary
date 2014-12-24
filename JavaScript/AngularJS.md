@@ -20,6 +20,8 @@ Template|模板
 Count|计数器
 Timer|计时器
 Module|模块
+Component|组件
+Widget|部件
 Application|应用程序
 Function|函数
 Argument|参数
