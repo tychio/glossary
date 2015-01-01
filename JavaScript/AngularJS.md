@@ -64,3 +64,4 @@ Feedback|反馈
 Instruction|指示
 Render|渲染
 Partial|局部
+Directory|目录
