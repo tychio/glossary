@@ -65,3 +65,4 @@ Instruction|指示
 Render|渲染
 Partial|局部
 Directory|目录
+two-column layout|双栏布局
