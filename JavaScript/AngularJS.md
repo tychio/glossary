@@ -68,3 +68,4 @@ Partial|局部
 Directory|目录
 two-column layout|双栏布局
 dual uses|两用性
+as-is|原样
