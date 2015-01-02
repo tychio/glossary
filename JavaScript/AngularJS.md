@@ -63,6 +63,8 @@ Validate|验证
 Feedback|反馈
 Instruction|指示
 Render|渲染
+Enumerate|枚举
 Partial|局部
 Directory|目录
 two-column layout|双栏布局
+dual uses|两用性
