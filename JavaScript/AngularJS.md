@@ -71,3 +71,5 @@ dual uses|两用性
 as-is|原样
 Literal|字面量
 Pagination|分页
+Primer|基础
+Explicitly|显式
