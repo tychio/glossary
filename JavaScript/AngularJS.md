@@ -72,4 +72,8 @@ as-is|原样
 Literal|字面量
 Pagination|分页
 Primer|基础
+Primitive|基元
 Explicitly|显式
+Condition|条件
+Operator|运算符
+Identity Operator|全等运算符
