@@ -80,3 +80,5 @@ Explicitly|显式
 Condition|条件
 Operator|运算符
 Identity Operator|全等运算符
+End to end|端到端
+Single Page|单页面
