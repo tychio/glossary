@@ -63,6 +63,9 @@ Validate|验证
 Feedback|反馈
 Instruction|指示
 Render|渲染
+Parse|解析
+Encode|编码
+Decode|解码
 Enumerate|枚举
 Partial|局部
 Directory|目录
