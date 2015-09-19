@@ -7,3 +7,5 @@ pie chart|饼图
 bubble chart|泡泡图
 radar chart|雷达图
 two-item array|成对数组
+vertical axis|纵轴
+horizontal axis|横轴
