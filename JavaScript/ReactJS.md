@@ -13,3 +13,6 @@ event handlers|事件句柄
 bolt-on|附加
 mount|插入、装
 spread attribute|展开属性
+single-state|单状态
+architecture|架构
+multi-directional binding|多向绑定
